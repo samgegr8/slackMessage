@@ -1,0 +1,2 @@
+C:\Users\VF_Sam\serverlessRepos\slack-test\obj\Debug\slack-test.njsproj.CoreCompileInputs.cache
+C:\Users\VF_Sam\serverlessRepos\slack-test\bin\Microsoft.NodejsTools.WebRole.dll
