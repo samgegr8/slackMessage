@@ -1,11 +1,23 @@
 {
   "name": "yes",
   "version": "1.0.0",
-  "description": "",
   "main": "handler.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "slack-node": "^0.1.8"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samgegr8/slackMessage.git"
+  },
+  "bugs": {
+    "url": "https://github.com/samgegr8/slackMessage/issues"
+  },
+  "homepage": "https://github.com/samgegr8/slackMessage#readme",
+  "description": ""
 }
